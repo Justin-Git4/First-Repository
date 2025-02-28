@@ -1,22 +1,24 @@
 My eerste HTML code ek sal die CSS wat ek by dit skryf in new Files sit sodat die
 progress gelog word in verskillende files.
 
-<!DOCTYPE html> <!- document type, and help the browser display web page correctly, is not case sensitive (before any HTML tags)
-                    declaration for HTML5 -->
+<!DOCTYPE html> 
 
-<html> <!- is the root element of an HTML page -->
-<head> <!- contains meta (Tab Display ) information about the HTML page -->
-<title>First HTML</title> <!- Displays the Title on Tab -->
-</head> <!- end of (Tab Display ) information about the HTML page -->
-<body> <!- defines the document's body, and is a container for all the visible contents, 
-           such as headings, paragraphs, images, hyperlinks, tables, lists, etc. -->
+<html> 
+<head> 
+<title>First HTML</title> 
+</head>
+<body> 
 
-<h1>Welcome to my first HTML Design</h1> <!- defines a large heading -->
+<h1 style="color:Blue; font-size:50px;"> Welcome to my first HTML Design</h1> 
 
-<p>This is the first HTML page i am creating, there is lots of interesting things to do,<br>
-HTML is used to create web pages and define the structure of the page.</p> <!- defines a paragraph -->
+<p> This is the first HTML page i am creating, there is lots of interesting things to do,<br>
+HTML is used to create web pages and define the structure of the page.</p> 
 
-<p>Using CSS in HTML can advance the look of our page and give it more life.</p> <!- defines a paragraph -->
+<p>Using CSS in HTML can advance the look of our page and give it more life.</p> 
 
-</body> <!- end of the document's body, that displays all the visible contents -->
-</html> <!- end of elements in a HTML page -->
+<p>This is my favourite car </p> 
+
+<img src="/Images/GTR_R35.jpg" width="400" height="400"alt="Cannot display image">
+
+</body> 
+</html> 
